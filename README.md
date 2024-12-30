@@ -34,5 +34,6 @@ $ python txttohandwriting.py
 ```
 
 ## Demo
+    A NEW LINE IS ADDED
 
 <p align="center"><img width="50%" height="50%" src="0outt.png">    <img width="50%" height="50%" src="1outt.png"></p>
